@@ -13,7 +13,7 @@ import java.math.BigDecimal;
  */
 public class NumberToUkrainianWords {
 
-	public final static int DG_POWER = 10;
+	public final static int DG_POWER = 100;
 
 	private final static String[][] a_power = new String[][] {
 			{ "0", "", "", "" }, // 1
